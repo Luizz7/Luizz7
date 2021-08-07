@@ -17,7 +17,11 @@
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "luizgustavo.lgs22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-   
+  
+  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/77690412/128607701-8ff4369a-e6f2-4f06-9bdf-4ce0d099c1c2.gif)
+  
+  
+  
    ![Snake animation](https://github.com/Luizz7/Luizz7/blob/output/github-contribution-grid-snake.svg)
  
 
